@@ -1,4 +1,4 @@
-# Data Pipeline with Reddit, Apache Airflow, PostgreSQL, Celery, AWS S3, AWS Glue, AWS Athena, and AWS Redshift
+# Pipeline built with Reddit, Apache Airflow, PostgreSQL, Celery, AWS S3, AWS Glue, AWS Athena, and AWS Redshift
 
 Comprehensive data pipeline that extracts, transforms, and loads (ETL) Reddit data into a Redshift data-warehouse. This leverages a combination of tools and services including Apache Airflow, Celery, PostgreSQL, Amazon S3, AWS Glue, Amazon Athena, and Amazon Redshift.
 
